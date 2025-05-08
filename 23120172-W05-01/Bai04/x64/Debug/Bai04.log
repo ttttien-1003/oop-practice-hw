@@ -1,0 +1,10 @@
+﻿  main.cpp
+  mystring.cpp
+D:\OneDrive - VNU-HCMUS\Pictures\HCMUS\OOP\Thực hành\Week05\23120172-W05-01\Bai04\mystring.h(17,13): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+D:\OneDrive - VNU-HCMUS\Pictures\HCMUS\OOP\Thực hành\Week05\23120172-W05-01\Bai04\mystring.h(17,13): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'mystring.cpp')
+  
+  Generating Code...
+  Bai04.vcxproj -> D:\OneDrive - VNU-HCMUS\Pictures\HCMUS\OOP\Thực hành\Week05\23120172-W05-01\x64\Debug\Bai04.exe
